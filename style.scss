@@ -19,7 +19,9 @@ html {
 
 body {
   background: $white;
+  font-size: 17px;
   font-family: serif;
+  line-height: 1.4;
   color: $darkGray;
 }
 
@@ -69,7 +71,6 @@ h4 {
 p {
   margin: 15px 0;
   text-align: justify;
-  text-justify: inter-word;
 }
 
 a {
