@@ -5,10 +5,12 @@
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta property="og:description" content="{{ page.description}}" />
+    <meta property="og:image" content="{{ page.image}}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:image" content="https://vietnamworkwearanddenim.github.io/images/RA296825.jpg" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
