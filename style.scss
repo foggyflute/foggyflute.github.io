@@ -168,7 +168,7 @@ img {
   }
 }
 
-.site-avatar {
+/*.site-avatar {
   float: left;
   width: 70px;
   height: 70px;
@@ -184,7 +184,7 @@ img {
     border-radius: 5px;
   }
 }
-
+*/
 .site-info {
   float: left;
 
@@ -199,8 +199,8 @@ img {
   margin: 0;
   color: $gray;
   cursor: pointer;
-  font-family: $georgia;
-  font-weight: bold;
+  font-family: $helveticaNeue;
+  font-weight: 600;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -208,8 +208,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-family: $georgia;
-  font-weight: bold; 
+  font-family: $helveticaNeue; 
   font-size: 16px;
 
   @include mobile {
