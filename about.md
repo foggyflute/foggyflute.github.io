@@ -9,3 +9,7 @@ Workwear là 1 phong cách mà cái đẹp đi từ cuộc sống ra, những m�
 ### Chịu trách nhiệm nội dung.
 
 Page do BQL cuả group Vietnam RAW Denim quản lí và đăng bài.
+
+Page: https://www.facebook.com/VietnamWorkwearAndDenim/
+
+Group: https://www.facebook.com/groups/VietnamRAWdenim/
