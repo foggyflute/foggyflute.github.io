@@ -19,14 +19,14 @@ avatar: https://avatars0.githubusercontent.com/u/52304942?s=460&v=4
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/Vietnam-Workwear-Denim-401539177241354/
   flickr:
-  github: barryclark/jekyll-now
+  github: #barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: VNRD # just type anything here for a working RSS icon
+  twitter: #jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
