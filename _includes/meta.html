@@ -2,15 +2,19 @@
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <meta property="fb:app_id" content="315299259423641" />
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.description}}" />
     <meta property="og:image" content="{{ page.image}}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
     <meta property="og:image" content="https://vietnamworkwearanddenim.github.io/images/RA296825.jpg" />
+    <meta property="og:type" content="website" />
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
