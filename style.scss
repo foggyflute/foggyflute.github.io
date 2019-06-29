@@ -300,13 +300,15 @@ footer {
 
 .PageNavigation a {
   display: block;
-  width: 50%;
+  width: 30%;
   float: left;
   margin: 1em;
+  padding-top: 1em;
 }
 
 .PageNavigation .next {
   text-align: right;
+  float: right;
 }
 
 
