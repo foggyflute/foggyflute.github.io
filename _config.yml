@@ -83,7 +83,7 @@ str_previous_page: "Previous"
 
 pagination_nr: 5
 paginate_path: /page:num/
-=======
+
 #paginate settings
 paginate: 5
 paginate_path: "/posts/page:num/"
