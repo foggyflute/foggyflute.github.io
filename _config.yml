@@ -76,17 +76,17 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate #would it work?
 
-#paginate settings
-str_next_page: "Next"  
-str_previous_page: "Previous"
-
-pagination_nr: 5
-paginate_path: /page:num/
+#paginate settings _ no plugin
+  #str_next_page: "Next"  
+  #str_previous_page: "Previous"
+  #pagination_nr: 5
+  #paginate_path: /page:num/
 
 #paginate settings
 paginate: 5
-paginate_path: "/posts/page:num/"
+paginate_path: "/posts/page-:num/"
 
 # Exclude these files from your production _site
 exclude:
